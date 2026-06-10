@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Siva Pratap AWS Portal NEW BATCH STARTS ON JUNE 28 Producation server 🚀</h1>
+    <h1>🚀 Siva Pratap AWS Portal NEW BATCH STARTS ON JUNE 11 Producation server 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
